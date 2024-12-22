@@ -1,5 +1,5 @@
 # FakeNewsDetection
-Misinformation classifier for general language content, especially speech claims and political content. We aim to use a Long Short Term Memory Model (LSTM) with attention to classify text as containing misinformation or not.
+Binary and Multi-class misinformation classifiers based on LIAR dataset. We aim to LSTM, BiLSTM, GRU, and Transformer models to classify text which may contain misinformation or 'Fake News'
 
 
 # Dataset
