@@ -1,3 +1,6 @@
 data/
 transformer/models/
 .venv/
+.env
+*.log
+storage.txt
